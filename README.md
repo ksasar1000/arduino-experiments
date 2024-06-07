@@ -21,3 +21,5 @@ The filters are updated regularly as new promotional patterns emerge.
 Found something that should be blocked? Submit a PR with the new filter rule.
 
 GPLv3
+
+# PR Update: 2025-11-26 01:56:53
